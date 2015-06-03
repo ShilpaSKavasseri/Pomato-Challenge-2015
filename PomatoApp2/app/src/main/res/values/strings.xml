@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PomatoApp</string>
+
+    <string name="Pomato">Choose a Vendor</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_vendor_details">VendorDetails</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
